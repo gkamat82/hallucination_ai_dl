@@ -8,7 +8,7 @@ be factually incorrect or may generate unfounded data.
 We are trying to explore and benchmark several mitigation strategies, which are aimed to:
 
 1. Understand the existing metrics and exploring other reliable evaluation tools
-2. Studying implementation details and quantifying the accuracy improvements
+2. Study implementation details and quantifying the accuracy improvements
 
 ## Model
 
