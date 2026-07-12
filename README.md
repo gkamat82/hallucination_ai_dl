@@ -11,7 +11,7 @@ We explored and benchmarked several mitigation strategies aimed to:
 
 ## Architecture
 
-![Project Architecture Diagram](images/project_architecture.png)
+![Project Architecture Diagram](images/project_architecture.jpg)
 
 The diagram above summarizes the full pipeline: the WebQuestions dataset and Wikidata knowledge graph are
 preprocessed independently, used to fine-tune Gemma-2B with LoRA and augment it with KG embeddings, and both
